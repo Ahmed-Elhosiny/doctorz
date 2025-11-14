@@ -1,0 +1,6 @@
+/node_modules
+.prettierrc
+package-lock.json
+/db/clusterData.txt
+/dev-data
+.env
